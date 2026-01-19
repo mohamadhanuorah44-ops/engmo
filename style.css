@@ -1,0 +1,46 @@
+/* تنسيق عام للصفحة */
+body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+/* رأس الصفحة */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* الحاوية الرئيسية */
+.container {
+    background-color: white;
+    width: 80%;
+    margin: 20px auto;
+    padding: 15px;
+}
+
+/* مكان الصورة */
+.photo {
+    text-align: center;
+}
+
+/* تنسيق الصورة */
+.photo img {
+    width: 150px;
+    border-radius: 25%;
+}
+
+/* العناوين */
+h2 {
+    color: #333;
+}
+
+/* التذييل */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
